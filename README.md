@@ -8,7 +8,7 @@ A colour scheme derived from a wallpaper found on r/WidescreenWallpaper.
 
 # Colours
 
-| ![](https://raw.githubusercontent.com/Perdyx/hunt/a34af545fb5d07b90f1a4ece04847897d2bb495f/colorize-black-18dp.svg) | Palette | Hex |
+| ![](https://github.com/Perdyx/hunt/blob/main/colorize-black-18dp.svg) | Palette | Hex |
 | :-: | :-: | :-: |
 | ![](https://via.placeholder.com/15/0D1B25/000000?text=+) | 00 | `#0D1B25` |
 | ![](https://via.placeholder.com/15/136587/000000?text=+) | 01 | `#136587` |
