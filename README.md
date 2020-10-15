@@ -2,13 +2,13 @@
 
 A colour scheme derived from a wallpaper found on r/WidescreenWallpaper.
 
-![]()
+![](https://github.com/Perdyx/hunt/blob/main/wallpaper.png)
 
 [https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_by_friendly_robot_3440_x_1440/](https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_by_friendly_robot_3440_x_1440/)
 
 # Colours
 
-| ![](https://raw.githubusercontent.com/Perdyx/amber/7d11818435b65a1c19b9c09d7a71f78ebff6346d/colorize-24px.svg) | Palette | Hex |
+| ![](https://raw.githubusercontent.com/Perdyx/hunt/a34af545fb5d07b90f1a4ece04847897d2bb495f/colorize-black-18dp.svg) | Palette | Hex |
 | :-: | :-: | :-: |
 | ![](https://via.placeholder.com/15/0D1B25/000000?text=+) | 00 | `#0D1B25` |
 | ![](https://via.placeholder.com/15/136587/000000?text=+) | 01 | `#136587` |
