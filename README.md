@@ -8,21 +8,21 @@ A colour scheme derived from a wallpaper found on r/WidescreenWallpaper.
 
 # Colours
 
-| ![](https://raw.githubusercontent.com/Perdyx/amber/7d11818435b65a1c19b9c09d7a71f78ebff6346d/colorize-24px.svg) | Hex |
-| :-: | :-: |
-| ![](https://via.placeholder.com/15/0D1B25/000000?text=+) | `#0D1B25` |
-| ![](https://via.placeholder.com/15/136587/000000?text=+) | `#136587` |
-| ![](https://via.placeholder.com/15/297896/000000?text=+) | `#297896` |
-| ![](https://via.placeholder.com/15/2A7599/000000?text=+) | `#2A7599` |
-| ![](https://via.placeholder.com/15/417C95/000000?text=+) | `#417C95` |
-| ![](https://via.placeholder.com/15/3384A1/000000?text=+) | `#3384A1` |
-| ![](https://via.placeholder.com/15/5696AF/000000?text=+) | `#5696AF` |
-| ![](https://via.placeholder.com/15/afced8/000000?text=+) | `#AFCED8` |
-| ![](https://via.placeholder.com/15/7a9097/000000?text=+) | `#7A9097` |
-| ![](https://via.placeholder.com/15/136587/000000?text=+) | `#136587` |
-| ![](https://via.placeholder.com/15/297896/000000?text=+) | `#297896` |
-| ![](https://via.placeholder.com/15/2A7599/000000?text=+) | `#2A7599` |
-| ![](https://via.placeholder.com/15/417C95/000000?text=+) | `#417C95` |
-| ![](https://via.placeholder.com/15/3384A1/000000?text=+) | `#3384A1` |
-| ![](https://via.placeholder.com/15/5696AF/000000?text=+) | `#5696AF` |
-| ![](https://via.placeholder.com/15/afced8/000000?text=+) | `#AFCED8` |
+| ![](https://raw.githubusercontent.com/Perdyx/amber/7d11818435b65a1c19b9c09d7a71f78ebff6346d/colorize-24px.svg) | Palette | Hex |
+| :-: | :-: | :-: |
+| ![](https://via.placeholder.com/15/0D1B25/000000?text=+) | 00 | `#0D1B25` |
+| ![](https://via.placeholder.com/15/136587/000000?text=+) | 01 | `#136587` |
+| ![](https://via.placeholder.com/15/297896/000000?text=+) | 02 | `#297896` |
+| ![](https://via.placeholder.com/15/2A7599/000000?text=+) | 03 | `#2A7599` |
+| ![](https://via.placeholder.com/15/417C95/000000?text=+) | 04 | `#417C95` |
+| ![](https://via.placeholder.com/15/3384A1/000000?text=+) | 05 | `#3384A1` |
+| ![](https://via.placeholder.com/15/5696AF/000000?text=+) | 06 | `#5696AF` |
+| ![](https://via.placeholder.com/15/afced8/000000?text=+) | 07 | `#AFCED8` |
+| ![](https://via.placeholder.com/15/7a9097/000000?text=+) | 08 | `#7A9097` |
+| ![](https://via.placeholder.com/15/136587/000000?text=+) | 09 | `#136587` |
+| ![](https://via.placeholder.com/15/297896/000000?text=+) | 10 | `#297896` |
+| ![](https://via.placeholder.com/15/2A7599/000000?text=+) | 11 | `#2A7599` |
+| ![](https://via.placeholder.com/15/417C95/000000?text=+) | 12 | `#417C95` |
+| ![](https://via.placeholder.com/15/3384A1/000000?text=+) | 13 | `#3384A1` |
+| ![](https://via.placeholder.com/15/5696AF/000000?text=+) | 14 | `#5696AF` |
+| ![](https://via.placeholder.com/15/afced8/000000?text=+) | 15 | `#AFCED8` |
