@@ -1,0 +1,27 @@
+{
+  "name": "Hunt",
+
+  "cursorColor": "#AFCED8",
+  "selectionBackground": "#AFCED8",
+
+  "background" : "#0D1B25",
+  "foreground" : "#AFCED8",
+
+  "black" : "#0D1B25",
+  "red" : "#136587",
+  "green" : "#297896",
+  "yellow" : "#2A7599",
+  "blue" : "#417C95",
+  "purple" : "#3384A1",
+  "cyan" : "#5696AF",
+  "white" : "#AFCED8",
+
+  "brightBlack" : "#7A9097",
+  "brightRed" : "#136587",
+  "brightGreen" : "#297896",
+  "brightYellow" : "#2A7599",
+  "brightBlue" : "#417C95",
+  "brightPurple" : "#3384A1",
+  "brightCyan" : "#5696AF",
+  "brightWhite" : "#AFCED8"
+}
