@@ -1,3 +1,8 @@
+cursorColor: '#AFCED8',
+
+foregroundColor: '#AFCED8',
+backgroundColor: '#0D1B25',
+
 colors: {
   black: '#0D1B25',
   red: '#136587',
@@ -15,4 +20,4 @@ colors: {
   lightMagenta: '#3384A1',
   lightCyan: '#5696AF',
   lightWhite: '#AFCED8',
-},
+}
