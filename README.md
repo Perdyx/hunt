@@ -4,7 +4,7 @@ A colour scheme derived from a wallpaper found on r/WidescreenWallpaper.
 
 ![](https://github.com/Perdyx/hunt/blob/main/wallpaper.png)
 
-[https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_by_friendly_robot_3440_x_1440/](https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_by_friendly_robot_3440_x_1440/)
+Source: [https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_by_friendly_robot_3440_x_1440/](https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_by_friendly_robot_3440_x_1440/)
 
 # Colours
 
