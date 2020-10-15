@@ -9,7 +9,7 @@ A colour scheme derived from a wallpaper found on r/WidescreenWallpaper.
 # Colours
 
 | ![](https://raw.githubusercontent.com/Perdyx/amber/7d11818435b65a1c19b9c09d7a71f78ebff6346d/colorize-24px.svg) | Hex |
-| :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: |
 | ![](https://via.placeholder.com/15/0D1B25/000000?text=+) | `#0D1B25` |
 | ![](https://via.placeholder.com/15/136587/000000?text=+) | `#136587` |
 | ![](https://via.placeholder.com/15/297896/000000?text=+) | `#297896` |
