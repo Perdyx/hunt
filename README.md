@@ -26,3 +26,7 @@ Source: [https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_
 | ![](https://via.placeholder.com/15/3384A1/000000?text=+) | 13 | `#3384A1` |
 | ![](https://via.placeholder.com/15/5696AF/000000?text=+) | 14 | `#5696AF` |
 | ![](https://via.placeholder.com/15/afced8/000000?text=+) | 15 | `#AFCED8` |
+
+# Installation
+
+Configs can be found in the configs directory.
