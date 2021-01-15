@@ -6,7 +6,7 @@ A colour scheme derived from a wallpaper found on r/WidescreenWallpaper.
 
 Source: [https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_by_friendly_robot_3440_x_1440/](https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_by_friendly_robot_3440_x_1440/)
 
-# Colours
+## Colours
 
 | ![](https://github.com/Perdyx/hunt/blob/main/colorize-black-18dp.svg) | Palette | Hex |
 | :-: | :-: | :-: |
@@ -26,7 +26,3 @@ Source: [https://www.reddit.com/r/WidescreenWallpaper/comments/jbq9vx/good_hunt_
 | ![](https://via.placeholder.com/15/3384A1/000000?text=+) | 13 | `#3384A1` |
 | ![](https://via.placeholder.com/15/5696AF/000000?text=+) | 14 | `#5696AF` |
 | ![](https://via.placeholder.com/15/afced8/000000?text=+) | 15 | `#AFCED8` |
-
-# Installation
-
-Configs can be found in the configs directory.
